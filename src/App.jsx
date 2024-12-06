@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-    <h1>HOLA</h1>
+    <h1>HOLA que tal</h1>
     <div className='drawer bg-green-50 w-full h-screen lg:drawer-open'>
        <input id="my-drawer-3" type='checkbox'  className='drawer-toggle'/>
        <div className='drawer-content relative'>
